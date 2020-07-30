@@ -2,3 +2,26 @@ fajrul.aslim@gmail.com
 Fajrul Aslim
 fajrulaslim.CODE
 fajrulaslim.sanberCODE
+
+
+
+YANG MESTI DI INSTALLL
+- elementor
+- wp-forms-lite
+- wp-mail-smtp
+- ultimate addons for gutenberg
+- astra widgets
+- astra-sites
+
+smtp.gmail.com
+
+
+https://console.developers.google.com/flows/enableapi?apiid=gmail&pli=1
+
+Client ID	
+471464907571-ua1f24im0k8ap3dv9v117n5rjo4difob.apps.googleusercontent.com
+
+Client Secret
+Y2tuxVYfdw70gBa4hRbwLMbB
+
+manganEbook22
